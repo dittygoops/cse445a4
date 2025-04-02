@@ -1,0 +1,133 @@
+<Hotels>
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Hilton</Name>
+        <Phone>480-234-8324</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>123</Number>
+            <Street>Main St</Street>
+            <City>Anytown</City>
+            <State>CA</State>
+            <Zip>12345</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Comfort Inn</Name>
+        <Phone>865-881-5774</Phone>
+        <Phone>947-210-4303</Phone>
+        <Phone>234-634-8365</Phone>
+        <Address NearestAirport="Denver Bird">
+            <Number>480</Number>
+            <Street>Main St</Street>
+            <City>Denver</City>
+            <State>CO</State>
+            <Zip>21293</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.9">
+        <Name>Sheraton</Name>
+        <Phone>845-606-1960</Phone>
+        <Address NearestAirport="San Francisco Planes">
+            <Number>328</Number>
+            <Street>Elm St</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>21097</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.1">
+        <Name>Comfort Inn</Name>
+        <Phone>434-981-7823</Phone>
+        <Address NearestAirport="Chicago Planes">
+            <Number>308</Number>
+            <Street>Elm St</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>90616</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Holiday Inn</Name>
+        <Phone>863-754-5899</Phone>
+        <Phone>823-175-9279</Phone>
+        <Phone>920-756-1228</Phone>        
+        <Phone>935-341-7137</Phone>
+        <Address NearestAirport="Atlanta Airport">
+            <Number>569</Number>
+            <Street>Main St</Street>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <Zip>70249</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Hyatt</Name>
+        <Phone>780-210-6322</Phone>
+        <Phone>394-765-2042</Phone>
+        <Address NearestAirport="Atlanta Airport">
+            <Number>236</Number>
+            <Street>Main St</Street>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <Zip>38499</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.2">
+        <Name>Holiday Inn</Name>
+        <Phone>772-730-4507</Phone>
+        <Phone>235-486-8408</Phone>
+        <Address NearestAirport="New York Flights">
+            <Number>668</Number>
+            <Street>Oak St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>40344</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- More Randomly Generated Hotels -->
+    <Hotel>
+        <Name>Sheraton</Name>
+        <Phone>783-243-8638</Phone>
+        <Phone>388-219-4890</Phone>
+        <Address NearestAirport="Seattle Planes">
+            <Number>513</Number>
+            <Street>Broadway</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>72129</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Final Randomly Generated Hotel -->
+    <Hotel Rating="4.4">
+        <Name>Sheraton</Name>
+        <Phone>643-151-3818</Phone>
+        <Phone>163-184-1865</Phone>
+        <Address NearestAirport="Atlanta Airport">
+            <Number>234</Number>
+            <Street>Cedar Rd</Street>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <Zip>30303</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
