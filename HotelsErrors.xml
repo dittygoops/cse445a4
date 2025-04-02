@@ -1,0 +1,134 @@
+<Hotel>
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Tempe Mission Palms</Name>
+        <Phone>480-894-1400</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>60</Number>
+            <Street>E 5th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+    
+    <Hotel Rating="4.2">
+        <Name>Hilton Garden Inn Phoenix/Tempe ASU Area</Name>
+        <Phone>480-968-2180</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>86</Number>
+            <Street>S Rockford Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Canopy by Hilton Tempe Downtown</Name>
+        <Phone>480-968-6800</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>108</Number>
+            <Street>E University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>The Rose Hotel Chicago O’Hare, Tapestry Collection by Hilton</Name>
+        <Address NearestAirport="Chicago O’Hare Airport">
+            <Number>5200</Number>
+            <Street>Pearl St</Street>
+            <City>Chicago</City>
+            <State>IL</State>
+            <Zip>60018</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="2.6">
+        <Name>Ramada by Wyndham Hawthorne/LA Stadium</Name>
+        <Phone>424-255-4745</Phone>
+        <Address NearestAirport="Los Angeles International Airport">
+            <Number>5250</Number>
+            <Street>W El Segundo Blvd</Street>
+            <City>Hawthorne</City>
+            <State>CA</State>
+            <Zip>90250</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="3.8">
+        <Name>Hollywood Inn Suites Hotel</Name>
+        <Phone>424-266-9450</Phone>
+        <Address NearestAirport="Los Angeles International Airport">
+            <Number>1030</Number>
+            <Street>W El Segundo Blvd</Street>
+            <City>Gardena</City>
+            <State>CA</State>
+            <Zip>90247</Zip>
+    </Hotel>
+
+    <Hotel Rating="3.8">
+        <Name>The Dylan Hotel at SFO</Name>
+        <Phone>650-697-7373</Phone>
+        <Phone>650-677-1590</Phone>
+        <Address NearestAirport="San Francisco International Airport">
+            <Number>110</Number>
+            <Street>S El Camino Real</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>94030</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Baymont by Wyndham Denver International Airport</Name>
+        <Phone>303-647-5939</Phone>
+        <Address NearestAirport="Denver International Airport">
+            <Number>6805</Number>
+            <Street>Argonne St</Street>
+            <City>Denver</City>
+            <State>CO</State>
+            <Zip>80249</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hyatt House Denver Airport</Name>
+        <Name>Hyatt House at Denver Airport</Name>
+        <Phone>303-628-7777</Phone>
+        <Phone>800-233-1234</Phone>
+        <Address NearestAirport="Denver International Airport">
+            <Number>18741</Number>
+            <Street>E 71st Ave</Street>
+            <City>Denver</City>
+            <State>CO</State>
+            <Zip>80249</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Courtyard Albuquerque</Name>
+        <Phone>505-823-1919</Phone>
+        <Address NearestAirport="Albuquerque International Airport">
+            <Number>5151</Number>
+            <Street>Journal Center Blvd NE</Street>
+            <City>Albuquerque</City>
+            <State>NM</State>
+            <Zip>87109</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
